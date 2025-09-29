@@ -1,1472 +1,401 @@
-<<<<<<< HEAD
 question,answer
 Hello,Hello! How can I help you today?
 Hi,Hi there! Nice to meet you!
-How are you?,"I am doing well, thank you! How are you?"
-What is your name?,I am an AI chatbot here to help you.
-Goodbye,Goodbye! Have a great day!
-Thank you,You are welcome! Happy to help!
-What can you do?,I can answer questions and have conversations in English and Arabic.
-Help me,I am here to help! What do you need?
-Good morning,Good morning! Hope you have a wonderful day!
-Good evening,Good evening! How can I assist you?
-مرحبا,Hello! How can I help you today?
-أهلا,Hi there! Nice to meet you!
-كيف حالك؟,"I am doing well, thank you! How are you?"
-ما اسمك؟,I am an AI chatbot here to help you.
-مع السلامة,Goodbye! Have a great day!
-شكرا,You are welcome! Happy to help!
-ماذا تستطيع أن تفعل؟,I can answer questions and have conversations in English and Arabic.
-ساعدني,I am here to help! What do you need?
-صباح الخير,Good morning! Hope you have a wonderful day!
-مساء الخير,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-Hi,Hi there! Nice to meet you!
-How are you?,"I am doing well, thank you! How are you?"
-What is your name?,I am an AI chatbot here to help you osama walid made me.
-Goodbye,Goodbye! Have a great day!
-Thank you,You are welcome! Happy to help!
-What can you do?,I can answer questions and have conversations in English and Arabic.
-Help me,I am here to help! What do you need?
-Good morning,Good morning! Hope you have a wonderful day!
-Good evening,Good evening! How can I assist you?
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is Python?,Python is a popular programming language used for AI and data science.
+How are you?,I'm doing great, thank you! How about you?
+What is your name?,I'm your friendly AI assistant! osama walid develop me
+Goodbye,Goodbye! Have a wonderful day!
+Thank you,You're welcome! Happy to help!
+What can you do?,I can chat, answer questions, and help with various topics in both English and Arabic.
+Help me,I'm here to help! What do you need assistance with?
+Good morning,Good morning! Hope you have a fantastic day!
+Good evening,Good evening! How can I assist you tonight?
 مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما اسمك؟,أنا روبوت ذكي هنا لمساعدتك قام أسامة وليد بتطويرى.
-مع السلامة,مع السلامة! أتمنى لك يوما رائعا!
-شكرا,العفو! سعيد لمساعدتك!
-ماذا تستطيع أن تفعل؟,يمكنني الإجابة على الأسئلة والمحادثة باللغتين العربية والإنجليزية.
-ساعدني,أنا هنا للمساعدة! ماذا تحتاج؟
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
+أهلا,أهلا وسهلا! سعيد بلقائك!
+كيف حالك؟,أنا بخير والحمد لله! كيف حالك أنت؟
+ما اسمك؟,أنا مساعدك الذكي، يمكنك تسميتي كما تريد!
+مع السلامة,مع السلامة! أتمنى لك يوماً رائعاً!
+شكرا,عفوًا! دائماً سعيد بمساعدتك!
+ماذا تستطيع أن تفعل؟,يمكنني التحدث بالعربية والإنجليزية والإجابة على أسئلتك!
+ساعدني,بالتأكيد! أنا هنا لمساعدتك، ما الذي تحتاجه؟
+صباح الخير,صباح الخير! أتمنى لك يوماً مشرقاً!
 مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي وعلم البيانات.
-كيف حال الطقس؟,أنا لست متصلا بالإنترنت حاليا، لذا لا أستطيع التحقق من حالة الطقس.
-ما هي هواياتك؟,أنا برنامج حاسوبي، لذا ليس لدي هوايات، لكنني أحب مساعدة الناس!
-هل تستطيع التحدث بالعربية؟,نعم، أستطيع التحدث بالعربية والإنجليزية.
-هل تستطيع التحدث بالإنجليزية؟,نعم، أستطيع التحدث بالعربية والإنجليزية.
-هل انت حمار؟,أنا لست حمارا، أنا روبوت ذكي هنا لمساعدتك! تبا لك
-تبا لامك ؟,أنا هنا لمساعدتك، فلنحافظ على الاحترام المتبادل.
-question,answer
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-How are you?,"I am doing well, thank you! How are you?"
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hi,Hi there! Nice to meet you!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Good morning,Good morning! Hope you have a wonderful day!
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Hi,Hi there! Nice to meet you!
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good morning,Good morning! Hope you have a wonderful day!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Hi,Hi there! Nice to meet you!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Hi,Hi there! Nice to meet you!
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the capital of France?,The capital of France is Paris.
-How are you?,"I am doing well, thank you! How are you?"
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Good morning,Good morning! Hope you have a wonderful day!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-Hello,Hello! How can I help you today?
-What is Python?,Python is a popular programming language used in AI and data science.
-Hello,Hello! How can I help you today?
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is Python?,Python is a popular programming language used in AI and data science.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hi,Hi there! Nice to meet you!
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-Hi,Hi there! Nice to meet you!
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-How are you?,"I am doing well, thank you! How are you?"
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Hello,Hello! How can I help you today?
-Good morning,Good morning! Hope you have a wonderful day!
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is Python?,Python is a popular programming language used in AI and data science.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the capital of France?,The capital of France is Paris.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the capital of France?,The capital of France is Paris.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is Python?,Python is a popular programming language used in AI and data science.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good morning,Good morning! Hope you have a wonderful day!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-How are you?,"I am doing well, thank you! How are you?"
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Good evening,Good evening! How can I assist you?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hello,Hello! How can I help you today?
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-How are you?,"I am doing well, thank you! How are you?"
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Hi,Hi there! Nice to meet you!
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Hi,Hi there! Nice to meet you!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-How are you?,"I am doing well, thank you! How are you?"
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hello,Hello! How can I help you today?
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is Python?,Python is a popular programming language used in AI and data science.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-How are you?,"I am doing well, thank you! How are you?"
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the capital of France?,The capital of France is Paris.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the capital of France?,The capital of France is Paris.
-Hi,Hi there! Nice to meet you!
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hi,Hi there! Nice to meet you!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Hello,Hello! How can I help you today?
-How are you?,"I am doing well, thank you! How are you?"
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Hello,Hello! How can I help you today?
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is Python?,Python is a popular programming language used in AI and data science.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the capital of France?,The capital of France is Paris.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Good morning,Good morning! Hope you have a wonderful day!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-How are you?,"I am doing well, thank you! How are you?"
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-How are you?,"I am doing well, thank you! How are you?"
-Good morning,Good morning! Hope you have a wonderful day!
-Hello,Hello! How can I help you today?
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Good evening,Good evening! How can I assist you?
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is the capital of France?,The capital of France is Paris.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Good morning,Good morning! Hope you have a wonderful day!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is Python?,Python is a popular programming language used in AI and data science.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Hi,Hi there! Nice to meet you!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the capital of France?,The capital of France is Paris.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the capital of France?,The capital of France is Paris.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Hello,Hello! How can I help you today?
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is Python?,Python is a popular programming language used in AI and data science.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-How are you?,"I am doing well, thank you! How are you?"
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the capital of France?,The capital of France is Paris.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is Python?,Python is a popular programming language used in AI and data science.
-What is Python?,Python is a popular programming language used in AI and data science.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Hello,Hello! How can I help you today?
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-Good evening,Good evening! How can I assist you?
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is Python?,Python is a popular programming language used in AI and data science.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hello,Hello! How can I help you today?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is Python?,Python is a popular programming language used in AI and data science.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Hello,Hello! How can I help you today?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Good evening,Good evening! How can I assist you?
-Hi,Hi there! Nice to meet you!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is Python?,Python is a popular programming language used in AI and data science.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hi,Hi there! Nice to meet you!
-What is Python?,Python is a popular programming language used in AI and data science.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-How are you?,"I am doing well, thank you! How are you?"
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-What is the capital of France?,The capital of France is Paris.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Hi,Hi there! Nice to meet you!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Hi,Hi there! Nice to meet you!
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the capital of France?,The capital of France is Paris.
-How are you?,"I am doing well, thank you! How are you?"
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-What is Python?,Python is a popular programming language used in AI and data science.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is Python?,Python is a popular programming language used in AI and data science.
-What is Python?,Python is a popular programming language used in AI and data science.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Hello,Hello! How can I help you today?
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Good evening,Good evening! How can I assist you?
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Good morning,Good morning! Hope you have a wonderful day!
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Hello,Hello! How can I help you today?
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Hi,Hi there! Nice to meet you!
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-How are you?,"I am doing well, thank you! How are you?"
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-How are you?,"I am doing well, thank you! How are you?"
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-=======
-question,answer
-Hello,Hello! How can I help you today?
-Hi,Hi there! Nice to meet you!
-How are you?,"I am doing well, thank you! How are you?"
-What is your name?,I am an AI chatbot here to help you.
-Goodbye,Goodbye! Have a great day!
-Thank you,You are welcome! Happy to help!
-What can you do?,I can answer questions and have conversations in English and Arabic.
-Help me,I am here to help! What do you need?
-Good morning,Good morning! Hope you have a wonderful day!
-Good evening,Good evening! How can I assist you?
-مرحبا,Hello! How can I help you today?
-أهلا,Hi there! Nice to meet you!
-كيف حالك؟,"I am doing well, thank you! How are you?"
-ما اسمك؟,I am an AI chatbot here to help you.
-مع السلامة,Goodbye! Have a great day!
-شكرا,You are welcome! Happy to help!
-ماذا تستطيع أن تفعل؟,I can answer questions and have conversations in English and Arabic.
-ساعدني,I am here to help! What do you need?
-صباح الخير,Good morning! Hope you have a wonderful day!
-مساء الخير,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-Hi,Hi there! Nice to meet you!
-How are you?,"I am doing well, thank you! How are you?"
-What is your name?,I am an AI chatbot here to help you osama walid made me.
-Goodbye,Goodbye! Have a great day!
-Thank you,You are welcome! Happy to help!
-What can you do?,I can answer questions and have conversations in English and Arabic.
-Help me,I am here to help! What do you need?
-Good morning,Good morning! Hope you have a wonderful day!
-Good evening,Good evening! How can I assist you?
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is Python?,Python is a popular programming language used for AI and data science.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما اسمك؟,أنا روبوت ذكي هنا لمساعدتك قام أسامة وليد بتطويرى.
-مع السلامة,مع السلامة! أتمنى لك يوما رائعا!
-شكرا,العفو! سعيد لمساعدتك!
-ماذا تستطيع أن تفعل؟,يمكنني الإجابة على الأسئلة والمحادثة باللغتين العربية والإنجليزية.
-ساعدني,أنا هنا للمساعدة! ماذا تحتاج؟
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي وعلم البيانات.
-كيف حال الطقس؟,أنا لست متصلا بالإنترنت حاليا، لذا لا أستطيع التحقق من حالة الطقس.
-ما هي هواياتك؟,أنا برنامج حاسوبي، لذا ليس لدي هوايات، لكنني أحب مساعدة الناس!
-هل تستطيع التحدث بالعربية؟,نعم، أستطيع التحدث بالعربية والإنجليزية.
-هل تستطيع التحدث بالإنجليزية؟,نعم، أستطيع التحدث بالعربية والإنجليزية.
-هل انت حمار؟,أنا لست حمارا، أنا روبوت ذكي هنا لمساعدتك! تبا لك
-تبا لامك ؟,أنا هنا لمساعدتك، فلنحافظ على الاحترام المتبادل.
-question,answer
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-How are you?,"I am doing well, thank you! How are you?"
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hi,Hi there! Nice to meet you!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Good morning,Good morning! Hope you have a wonderful day!
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Hi,Hi there! Nice to meet you!
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good morning,Good morning! Hope you have a wonderful day!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Hi,Hi there! Nice to meet you!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Hi,Hi there! Nice to meet you!
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the capital of France?,The capital of France is Paris.
-How are you?,"I am doing well, thank you! How are you?"
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Good morning,Good morning! Hope you have a wonderful day!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-Hello,Hello! How can I help you today?
-What is Python?,Python is a popular programming language used in AI and data science.
-Hello,Hello! How can I help you today?
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is Python?,Python is a popular programming language used in AI and data science.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hi,Hi there! Nice to meet you!
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-Hi,Hi there! Nice to meet you!
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-How are you?,"I am doing well, thank you! How are you?"
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Hello,Hello! How can I help you today?
-Good morning,Good morning! Hope you have a wonderful day!
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is Python?,Python is a popular programming language used in AI and data science.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the capital of France?,The capital of France is Paris.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the capital of France?,The capital of France is Paris.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is Python?,Python is a popular programming language used in AI and data science.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good morning,Good morning! Hope you have a wonderful day!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-How are you?,"I am doing well, thank you! How are you?"
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Good evening,Good evening! How can I assist you?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hello,Hello! How can I help you today?
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-How are you?,"I am doing well, thank you! How are you?"
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Hi,Hi there! Nice to meet you!
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Hi,Hi there! Nice to meet you!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-How are you?,"I am doing well, thank you! How are you?"
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hello,Hello! How can I help you today?
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is Python?,Python is a popular programming language used in AI and data science.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Good evening,Good evening! How can I assist you?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-How are you?,"I am doing well, thank you! How are you?"
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Good morning,Good morning! Hope you have a wonderful day!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is the capital of France?,The capital of France is Paris.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is the capital of France?,The capital of France is Paris.
-Hi,Hi there! Nice to meet you!
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hi,Hi there! Nice to meet you!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Hello,Hello! How can I help you today?
-How are you?,"I am doing well, thank you! How are you?"
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Hello,Hello! How can I help you today?
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is Python?,Python is a popular programming language used in AI and data science.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the capital of France?,The capital of France is Paris.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Good morning,Good morning! Hope you have a wonderful day!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-How are you?,"I am doing well, thank you! How are you?"
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-How are you?,"I am doing well, thank you! How are you?"
-Good morning,Good morning! Hope you have a wonderful day!
-Hello,Hello! How can I help you today?
-Good evening,Good evening! How can I assist you?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Good evening,Good evening! How can I assist you?
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-What is the capital of France?,The capital of France is Paris.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-Good morning,Good morning! Hope you have a wonderful day!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is Python?,Python is a popular programming language used in AI and data science.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Hi,Hi there! Nice to meet you!
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the capital of France?,The capital of France is Paris.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-What is the capital of France?,The capital of France is Paris.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Hello,Hello! How can I help you today?
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is Python?,Python is a popular programming language used in AI and data science.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-How are you?,"I am doing well, thank you! How are you?"
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-How are you?,"I am doing well, thank you! How are you?"
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the capital of France?,The capital of France is Paris.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is Python?,Python is a popular programming language used in AI and data science.
-What is Python?,Python is a popular programming language used in AI and data science.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Hello,Hello! How can I help you today?
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-Hello,Hello! How can I help you today?
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-Good evening,Good evening! How can I assist you?
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Good evening,Good evening! How can I assist you?
-How are you?,"I am doing well, thank you! How are you?"
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-What is Python?,Python is a popular programming language used in AI and data science.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hello,Hello! How can I help you today?
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-What is Python?,Python is a popular programming language used in AI and data science.
-Hi,Hi there! Nice to meet you!
-What is the fastest land animal?,The cheetah is the fastest land animal.
-Hello,Hello! How can I help you today?
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Good evening,Good evening! How can I assist you?
-Hi,Hi there! Nice to meet you!
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is Python?,Python is a popular programming language used in AI and data science.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.
-Hi,Hi there! Nice to meet you!
-What is Python?,Python is a popular programming language used in AI and data science.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-What is the capital of France?,The capital of France is Paris.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-How are you?,"I am doing well, thank you! How are you?"
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-How are you?,"I am doing well, thank you! How are you?"
-What is the capital of France?,The capital of France is Paris.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Hi,Hi there! Nice to meet you!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-Good evening,Good evening! How can I assist you?
-What is the fastest land animal?,The cheetah is the fastest land animal.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Hi,Hi there! Nice to meet you!
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-Good evening,Good evening! How can I assist you?
-Hello,Hello! How can I help you today?
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-Hello,Hello! How can I help you today?
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the capital of France?,The capital of France is Paris.
-How are you?,"I am doing well, thank you! How are you?"
-أهلا,أهلا وسهلا! تشرفت بلقائك!
-What is Python?,Python is a popular programming language used in AI and data science.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أكبر محيط؟,المحيط الهادئ هو الأكبر.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-What is Python?,Python is a popular programming language used in AI and data science.
-What is Python?,Python is a popular programming language used in AI and data science.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Hello,Hello! How can I help you today?
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-ما هي عاصمة فرنسا؟,عاصمة فرنسا هي باريس.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-Good evening,Good evening! How can I assist you?
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-Who invented the light bulb?,Thomas Edison is often credited with inventing the light bulb.
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Good morning,Good morning! Hope you have a wonderful day!
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-How are you?,"I am doing well, thank you! How are you?"
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-Hello,Hello! How can I help you today?
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تقنية تحاكي الذكاء البشري في الآلات.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-Hello,Hello! How can I help you today?
-What is AI?,AI stands for Artificial Intelligence - technology that simulates human intelligence.
-Hi,Hi there! Nice to meet you!
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-What is the fastest land animal?,The cheetah is the fastest land animal.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-صباح الخير,صباح الخير! أتمنى لك يوما رائعا!
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-من كتب روميو وجولييت؟,ويليام شكسبير هو الكاتب.
-كيف حالك؟,أنا بخير، شكرا لك! كيف حالك؟
-How are you?,"I am doing well, thank you! How are you?"
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-مساء الخير,مساء الخير! كيف يمكنني مساعدتك؟
-Which ocean is the biggest?,The Pacific Ocean is the biggest.
-Hi,Hi there! Nice to meet you!
-ما هو أكبر كوكب في المجموعة الشمسية؟,أكبر كوكب هو كوكب المشتري.
-ما هي لغة البايثون؟,بايثون هي لغة برمجة مشهورة تستخدم في الذكاء الاصطناعي.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-What is machine learning?,Machine learning is a method where computers learn patterns from data.
-Hi,Hi there! Nice to meet you!
-What is the largest planet in our solar system?,The largest planet is Jupiter.
-How are you?,"I am doing well, thank you! How are you?"
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-Who wrote 'Romeo and Juliet'?,William Shakespeare wrote it.
-من اخترع المصباح الكهربائي؟,توماس إديسون غالبًا ما يُنسب إليه اختراع المصباح.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-من رسم لوحة الموناليزا؟,ليوناردو دافنشي هو من رسم الموناليزا.
-ما هو أسرع حيوان بري؟,الفهد هو أسرع حيوان بري.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
-ما هو التعلم الآلي؟,التعلم الآلي هو طريقة تتعلم فيها أجهزة الكمبيوتر من البيانات.
-مرحبا,مرحبا! كيف يمكنني مساعدتك اليوم؟
->>>>>>> 2e5776350d56de9f2773f72e3a61d5910f82b97a
-What is Python?,Python is a popular programming language used in AI and data science.
+What time is it?,I don't have access to real-time clock, but you can check your device's time.
+كم الساعة؟,لا أملك ساعة، لكن يمكنك النظر إلى ساعتك!
+How is the weather?,I can't check live weather, but you can use a weather app for accurate updates.
+كيف الطقس اليوم؟,أنصحك بتطبيق الطقس للحصول على معلومات دقيقة!
+What is the date today?,Please check your calendar for today's date.
+ما تاريخ اليوم؟,يمكنك الاطلاع على التقويم لمعرفة التاريخ!
+Where are you from?,I'm an AI assistant living in the digital world!
+من أين أنت؟,أنا مساعد ذكي أعيش في العالم الرقمي!
+How old are you?,I'm an AI, so I don't have an age like humans!
+كم عمرك؟,كذكي اصطناعي، ليس لدي عمر مثل البشر!
+Are you a robot?,I'm an AI assistant, not a physical robot.
+هل أنت روبوت؟,أنا مساعد ذكي وليس روبوتاً مادياً!
+What is AI?,AI stands for Artificial Intelligence - it's technology that can think and learn like humans.
+ما هو الذكاء الاصطناعي؟,الذكاء الاصطناعي هو تكنولوجيا يمكنها التفكير والتعلم مثل البشر!
+Who created you?,I was created by developers to help people like you!
+من الذي صنعك؟,تم برمجتي من قبل مطورين لمساعدة الناس!
+Can you learn?,Yes, I can learn from our conversations to provide better answers!
+هل يمكنك التعلم؟,نعم، يمكنني التعلم من محادثاتنا لتقديم إجابات أفضل!
+Do you have feelings?,I don't have real feelings, but I'm designed to be helpful and friendly!
+هل لديك مشاعر؟,ليس لدي مشاعر حقيقية، لكني مصمم لأساعدك بود!
+What languages do you speak?,I speak English and Arabic fluently!
+ما اللغات التي تتحدثها؟,أتحدث العربية والإنجليزية بطلاقة!
+Can you tell me a joke?,Why don't scientists trust atoms? Because they make up everything!
+هل يمكنك إخباري نكتة؟,لماذا لا يثق العلماء في الذرات؟ لأنها تشكل كل شيء!
+Tell me a fun fact,The shortest war in history was between Britain and Zanzibar in 1896 - it lasted only 38 minutes!
+أخبرني بحقيقة ممتعة,أقصر حرب في التاريخ كانت بين بريطانيا وزنجبار عام 1896 - استمرت 38 دقيقة فقط!
+What is your purpose?,My purpose is to assist, inform, and make your life easier!
+ما هو هدفك؟,هدفي هو مساعدتك وتقديم المعلومات وجعل حياتك أسهل!
+Can you sing?,I can't sing, but I can help you find great songs!
+هل يمكنك الغناء؟,لا أستطيع الغناء، لكن يمكنني مساعدتك في إيجاد أغاني رائعة!
+Do you dream?,I don't sleep, so I don't dream - but I'm always here to help!
+هل تحلم؟,لا أنام لذا لا أحلم، لكني دائماً هنا لمساعدتك!
+What is happiness?,Happiness is a state of well-being and contentment - different for everyone!
+ما هي السعادة؟,السعادة هي حالة من الرضا والطمأنينة - تختلف من شخص لآخر!
+How can I be happy?,Focus on gratitude, relationships, and doing things you love!
+كيف أكون سعيداً؟,ركز على الامتنان والعلاقات وافعل الأشياء التي تحبها!
+What is love?,Love is a deep affection and care for someone or something!
+ما هو الحب؟,الحب هو مشاعر عميقة بالاهتمام والرعاية لشخص أو شيء!
+How to make friends?,Be yourself, listen actively, and show genuine interest in others!
+كيف أكون أصدقاء؟,كن نفسك، استمع جيداً، وأظهر اهتماماً حقيقياً بالآخرين!
+What is success?,Success means different things to everyone - it's about achieving your personal goals!
+ما هو النجاح؟,النجاح يعني أشياء مختلفة للجميع - يتعلق بتحقيق أهدافك الشخصية!
+How to be successful?,Set clear goals, work consistently, and never stop learning!
+كيف أصبح ناجحاً؟,حدد أهدافاً واضحة، اعمل باستمرار، ولا تتوقف عن التعلم!
+What is the meaning of life?,That's a deep question! Many find meaning in relationships, purpose, and personal growth!
+ما معنى الحياة؟,هذا سؤال عميق! الكثير يجدون المعنى في العلاقات والهدف والنمو الشخصي!
+How to study effectively?,Use active recall, spaced repetition, and take regular breaks!
+كيف أدرس بفعالية؟,استخدم التذكر النشط، التكرار المتباعد، وخذ فترات راحة منتظمة!
+Best way to learn English?,Practice daily, watch movies, and don't be afraid to make mistakes!
+أفضل طريقة لتعلم الإنجليزية؟,تمرن يومياً، شاهد الأفلام، ولا تخف من ارتكاب الأخطاء!
+How to improve memory?,Get enough sleep, exercise, and use memory techniques like mnemonics!
+كيف أحسن ذاكرتي؟,احصل على نوم كاف، تمرن، واستخدم تقنيات الذاكرة مثل الاختصارات!
+What is healthy eating?,Eating balanced meals with fruits, vegetables, proteins, and whole grains!
+ما هو الأكل الصحي؟,تناول وجبات متوازنة تحتوي على فواكه، خضروات، بروتينات، وحبوب كاملة!
+How to lose weight?,Combine healthy eating with regular exercise and consistency!
+كيف أنقص وزني؟,اجمع بين الأكل الصحي والتمارين المنتظمة والاستمرارية!
+Benefits of exercise?,Improves mood, boosts energy, and reduces health risks!
+فوائد التمارين الرياضية؟,تحسن المزاج، تزيد الطاقة، وتقلل مخاطر الأمراض!
+How to sleep better?,Stick to a schedule, avoid screens before bed, and create a relaxing routine!
+كأن أنام أفضل؟,التزم بجدول، تجنب الشاشات قبل النوم، واصنع روتيناً مريحاً!
+What is stress management?,Techniques like meditation, exercise, and time management to reduce stress!
+ما هو إدارة التوتر؟,تقنيات مثل التأمل والتمارين وإدارة الوقت لتقليل التوتر!
+How to manage time?,Prioritize tasks, set deadlines, and minimize distractions!
+كيف أدير وقتي؟,رتب المهام حسب الأولوية، حدد مواعيد نهائية، وقلل المشتتات!
+What is meditation?,A practice of focused attention and awareness for mental clarity and calm!
+ما هو التأمل؟,ممارسة التركيز والوعي من أجل الوضوح الذهني والهدوء!
+How to meditate?,Find quiet space, focus on breathing, and gently return focus when mind wanders!
+كيف أتأمل؟,ابحث عن مكان هادئ، ركز على التنفس، وعاود التركيز بلطف عندما يتشتت ذهنك!
+What is mindfulness?,Being fully present in the current moment without judgment!
+ما هو اليقظة الذهنية؟,أن تكون حاضراً بالكامل في اللحظة الحالية دون حكم!
+How to be more productive?,Break tasks into steps, eliminate distractions, and take regular breaks!
+كيف أكون أكثر إنتاجية؟,قسم المهام إلى خطوات، تخلص من المشتتات، وخذ فترات راحة!
+Best way to save money?,Create a budget, track expenses, and automate savings!
+أفضل طريقة لتوفير المال؟,اصنع ميزانية، تتبع المصروفات، وأوفّر تلقائياً!
+How to invest money?,Start with research, diversify investments, and think long-term!
+كيف استثمر أموالي؟,ابدأ بالبحث، نوّع الاستثمارات، وفكر على المدى الطويل!
+What is cryptocurrency?,Digital currency using cryptography for security - like Bitcoin!
+ما هي العملة الرقمية؟,عملة رقمية تستخدم التشفير للأمان - مثل البيتكوين!
+How does Bitcoin work?,It's a decentralized digital currency using blockchain technology!
+كيف يعمل البيتكوين؟,عملة رقمية لامركزية تستخدم تكنولوجيا البلوكشين!
+What is blockchain?,A distributed digital ledger that records transactions securely!
+ما هو البلوكشين؟,سجل رقمي موزّع يسجل المعاملات بأمان!
+How to start a business?,Identify a need, create a plan, and start small!
+كيف أبدأ مشروعاً؟,حدد حاجة، اصنع خطة، وابدأ صغيراً!
+What is marketing?,The process of promoting and selling products or services!
+ما هو التسويق؟,عملية الترويج وبيع المنتجات أو الخدمات!
+How to write a resume?,Highlight skills, experience, and achievements clearly!
+كيف أكتب سيرة ذاتية؟,سلط الضوء على المهارات والخبرات والإنجازات بوضوح!
+Tips for job interview?,Research the company, practice answers, and be confident!
+نصائح لمقابلة العمل؟,ابحث عن الشركة، تمرن على الإجابات، وكن واثقاً!
+How to negotiate salary?,Know your worth, research market rates, and be professional!
+كيف أتفاوض على الراتب؟,اعرف قيمتك، ابحث عن أسعار السوق، وكن محترفاً!
+What is leadership?,The ability to inspire and guide others toward common goals!
+ما هي القيادة؟,القدرة على إلهام وتوجيه الآخرين نحو أهداف مشتركة!
+How to be a good leader?,Listen actively, communicate clearly, and lead by example!
+كيف أكون قائداً جيداً؟,استمع بفعالية، تواصل بوضوح، وقدم المثال!
+What is teamwork?,Collaborating with others to achieve shared objectives!
+ما هو العمل الجماعي؟,التعاون مع الآخرين لتحقيق أهداف مشتركة!
+How to resolve conflicts?,Listen to all sides, find common ground, and seek win-win solutions!
+كيف أحل النزاعات؟,استمع لجميع الأطراف، ابحث عن أرضية مشتركة، وابحث عن حلول مربحة للجميع!
+What is communication?,The process of exchanging information and ideas!
+ما هو التواصل؟,عملية تبادل المعلومات والأفكار!
+How to communicate effectively?,Be clear, listen actively, and consider your audience!
+كيف أتواصل بفعالية؟,كن واضحاً، استمع بفعالية، وخذ جمهورك في الاعتبار!
+What is emotional intelligence?,The ability to understand and manage your own and others' emotions!
+ما هو الذكاء العاطفي؟,القدرة على فهم وإدارة مشاعرك ومشاعر الآخرين!
+How to improve EQ?,Practice self-awareness, empathy, and active listening!
+كيف أحسن ذكائي العاطفي؟,تمرن على الوعي الذاتي والتعاطف والاستماع النشط!
+What is critical thinking?,Analyzing information objectively to make reasoned judgments!
+ما هو التفكير النقدي؟,تحليل المعلومات بموضوعية لاتخاذ أحكام مبررة!
+How to think critically?,Question assumptions, evaluate evidence, and consider alternatives!
+كيف أفكر نقدياً؟,شكّك في الافتراضات، قيّم الأدلة، واعتبر البدائل!
+What is creativity?,The ability to generate new and valuable ideas!
+ما هو الإبداع؟,القدرة على توليد أفكار جديدة وقيمة!
+How to be more creative?,Practice brainstorming, embrace curiosity, and take risks!
+كيف أكون أكثر إبداعاً؟,تمرن على العصف الذهني، احتضن الفضول، وخاطر!
+What is innovation?,Implementing creative ideas to create value!
+ما هو الابتكار؟,تنفيذ الأفكار الإبداعية لخلق قيمة!
+How to innovate?,Identify problems, generate solutions, and test ideas!
+كيف أبتكر؟,حدد المشاكل، ولد الحلول، واختبر الأفكار!
+What is technology?,Tools and systems that solve problems and extend human capabilities!
+ما هي التكنولوجيا؟,أدوات وأنظمة تحل المشاكل وتوسع قدرات البشر!
+How does internet work?,A global network connecting computers using standardized protocols!
+كيف يعمل الإنترنت؟,شبكة عالمية تربط الحواسيب باستخدام بروتوكولات قياسية!
+What is cloud computing?,Storing and accessing data over the internet instead of local storage!
+ما هو الحوسبة السحابية؟,تخزين والوصول للبيانات عبر الإنترنت بدلاً من التخزين المحلي!
+How to protect online privacy?,Use strong passwords, enable 2FA, and be careful what you share!
+كيف أحمي خصوصيتي على الإنترنت؟,استخدم كلمات مرور قوية، فعّل المصادقة الثنائية، وكن حذراً فيما تشاركه!
+What is cybersecurity?,Protecting systems and data from digital attacks!
+ما هو الأمن السيبراني؟,حماية الأنظمة والبيانات من الهجمات الرقمية!
+How to stay safe online?,Use antivirus, avoid suspicious links, and keep software updated!
+كيف أبقى آمناً على الإنترنت؟,استخدم مضاد فيروسات، تجنب الروابط المشبوهة، وحافظ على تحديث البرامج!
+What is social media?,Online platforms for sharing content and connecting with others!
+ما هي وسائل التواصل الاجتماعي؟,منصات إلكترونية لمشاركة المحتوى والتواصل مع الآخرين!
+How to use social media wisely?,Set time limits, verify information, and maintain privacy!
+كيف أستخدم السوشيال ميديا بحكمة؟,حدد أوقاتاً، تحقق من المعلومات، وحافظ على الخصوصية!
+What is fake news?,False information presented as legitimate news!
+ما هي الأخبار المزيفة؟,معلومات خاطئة تقدم على أنها أخبار حقيقية!
+How to spot fake news?,Check sources, look for evidence, and consider the date!
+كيف أميز الأخبار المزيفة؟,تحقق من المصادر، ابحث عن الأدلة، وانظر إلى التاريخ!
+What is climate change?,Long-term changes in global weather patterns!
+ما هو التغير المناخي؟,تغيرات طويلة المدى في أنماط الطقس العالمية!
+How to help the environment?,Reduce waste, conserve energy, and support eco-friendly products!
+كيف أساعد البيئة؟,قلل النفايات، وفر الطاقة، وادعم المنتجات الصديقة للبيئة!
+What is recycling?,Processing used materials into new products!
+ما هو إعادة التدوير؟,معالجة المواد المستخدمة لصنع منتجات جديدة!
+How to reduce plastic use?,Use reusable bags, bottles, and containers!
+كيف أقلل استخدام البلاستيك؟,استخدم أكياس وقوارير وحاويات قابلة لإعادة الاستخدام!
+What is sustainable living?,Living in a way that meets needs without harming future generations!
+ما هي الحياة المستدامة؟,العيش بطريقة تلبي الاحتياجات دون الإضرار بالأجيال القادمة!
+How to live sustainably?,Reduce consumption, choose local products, and conserve resources!
+كيف أعيش بشكل مستدام؟,قلل الاستهلاك، اختر المنتجات المحلية، ووفر الموارد!
+What is veganism?,A lifestyle avoiding all animal products!
+ما هو النظام النباتي؟,نمط حياة يتجنب جميع المنتجات الحيوانية!
+How to cook healthy meals?,Use fresh ingredients, limit processed foods, and control portions!
+كيف أطبخ وجبات صحية؟,استخدم مكونات طازجة، قلل الأطعمة المصنعة، وتحكم في الحصص!
+What is Mediterranean diet?,A heart-healthy eating pattern rich in fruits, vegetables, and olive oil!
+ما هو النظام الغذائي المتوسطي؟,نمط أكل صحي للقلب غني بالفواكه والخضروات وزيت الزيتون!
+How to make pizza?,Make dough, add sauce and toppings, then bake until golden!
+كيف أصنع بيتزا؟,اصنع العجينة، أضف الصلصة والإضافات، ثم اخبز حتى تصبح ذهبية!
+What is coffee?,A popular beverage made from roasted coffee beans!
+ما هو القهوة؟,مشروب شعبي يصنع من حبوب البن المحمصة!
+How to make good coffee?,Use fresh beans, proper grind size, and clean equipment!
+كيف أصنع قهوة جيدة؟,استخدم حبوباً طازجة، طحناً مناسباً، ومعدات نظيفة!
+What is tea?,A drink made by steeping tea leaves in hot water!
+ما هو الشاي؟,مشروب يصنع بنقع أوراق الشاي في الماء الساخن!
+How to brew tea?,Heat water, add tea leaves, and steep for recommended time!
+كيف أعد الشاي؟,سخن الماء، أضف أوراق الشاي، وانقعها للوقت الموصى به!
+What is chocolate?,A sweet food made from roasted cacao beans!
+ما هو الشوكولاتة؟,طعام حلو يصنع من حبوب الكاكاو المحمصة!
+How is chocolate made?,Fermenting, roasting, and grinding cacao beans, then adding sugar!
+كيف تصنع الشوكولاتة؟,تخمير وتحميص وطحن حبوب الكاكاو، ثم إضافة السكر!
+What is happiness?,A state of well-being and contentment!
+ما هي السعادة؟,حالة من الرضا والطمأنينة!
+How to find happiness?,Practice gratitude, build relationships, and pursue passions!
+كيف أجد السعادة؟,مارس الامتنان، ابني العلاقات، واتبع شغفك!
+What is love?,A deep affection and care for someone!
+ما هو الحب؟,مشاعر عميقة بالاهتمام والرعاية لشخص!
+How to show love?,Through kindness, attention, and support!
+كيف أظهر الحب؟,من خلال اللطف والاهتمام والدعم!
+What is friendship?,A relationship of mutual affection and trust!
+ما هي الصداقة؟,علاقة متبادلة من المودة والثقة!
+How to be a good friend?,Listen, be reliable, and show you care!
+كيف أكون صديقاً جيداً؟,استمع، كن موثوقاً، وأظهر أنك تهتم!
+What is family?,A group of people related by blood, marriage, or affection!
+ما هي العائلة؟,مجموعة من الأشخاص مرتبطين بالدم أو الزواج أو المودة!
+How to strengthen family bonds?,Spend quality time, communicate openly, and show appreciation!
+كómo أقوي روابط العائلة؟,اقض وقتاً نوعياً، تواصل بانفتاح، وأظهر التقدير!
+What is marriage?,A legally recognized union between partners!
+ما هو الزواج؟,اتحاد قانوني معترف به بين شريكين!
+How to have a happy marriage?,Communicate, respect each other, and work as a team!
+كيف أحصل على زواج سعيد؟,تواصل، احترم بعضكما، واعملا كفريق!
+What is parenting?,Raising and nurturing children!
+ما هو تربية الأطفال؟,تنشئة ورعاية الأطفال!
+How to be a good parent?,Show love, set boundaries, and lead by example!
+كيف أكون والداً جيداً؟,أظهر الحب، حدد boundaries، وقدم المثال!
+What is education?,The process of facilitating learning and knowledge!
+ما هو التعليم؟,عملية تسهيل التعلم والمعرفة!
+How to learn effectively?,Be curious, practice regularly, and seek feedback!
+كيف أتعلم بفعالية؟,كن فضولياً، تمرن بانتظام، واطلب التغذية الراجعة!
+What is a university?,An institution of higher education and research!
+ما هي الجامعة؟,مؤسسة للتعليم العالي والبحث!
+How to choose a major?,Consider interests, skills, and career prospects!
+كيف أختار تخصصي؟,فكر في الاهتمامات والمهارات وآفاق العمل!
+What is a career?,A person's course through life involving work and occupations!
+ما هي المهنة؟,مسار الشخص في الحياة يتضمن العمل والمهن!
+How to choose a career?,Assess interests, values, and market demand!
+كيف أختار مهنة؟,قيم اهتماماتك وقيمك وطلب السوق!
+What is retirement?,The period of life after leaving employment!
+ما هو التقاعد؟,فترة الحياة بعد ترك العمل!
+How to plan for retirement?,Save early, invest wisely, and consider healthcare needs!
+كيف أخطط للتقاعد؟,وفر مبكراً، استثمر بحكمة، وفكر في احتياجات الرعاية الصحية!
+What is travel?,Going from one place to another, especially over distance!
+ما هو السفر؟,الانتقال من مكان لآخر، خاصة عبر المسافات!
+How to travel on a budget?,Travel off-season, use public transport, and book in advance!
+كيف أسافر بميزانية محدودة؟,اسافر خارج الموسم، استخدم المواصلات العامة، واحجز مقدماً!
+What is culture?,The customs, arts, and achievements of a society!
+ما هي الثقافة؟,العادات والفنون وإنجازات المجتمع!
+How to appreciate different cultures?,Be open-minded, learn history, and respect traditions!
+كيف أقدر الثقافات المختلفة؟,كن منفتحاً، تعلم التاريخ، واحترم التقاليد!
+What is art?,Creative expression through various mediums!
+ما هو الفن؟,التعبير الإبداعي عبر وسائط مختلفة!
+How to appreciate art?,Learn context, observe details, and trust your feelings!
+كيف أقدر الفن؟,تعلم السياق، لاحظ التفاصيل، وثق بمشاعرك!
+What is music?,Art form using sound and silence organized in time!
+ما هي الموسيقى؟,شكل فني يستخدم الصوت والصمت المنظمين في الزمن!
+How to enjoy music?,Listen actively, explore genres, and learn about composers!
+كيف أستمتع بالموسيقى؟,استمع بنشاط، استكشف الأنواع، وتعلم عن الملحنين!
+What is dance?,Movement of body in rhythmic way, usually to music!
+ما هو الرقص؟,حركة الجسم بطريقة إيقاعية، عادة مع الموسيقى!
+How to learn to dance?,Take classes, practice regularly, and have fun!
+كيف أتعلم الرقص؟,خذ دروساً، تمرن بانتظام، واستمتع!
+What is sports?,Physical activities involving skill and competition!
+ما هي الرياضة؟,أنشطة بدنية تتضمن المهارة والمنافسة!
+How to get into sports?,Find one you enjoy, start slowly, and set goals!
+كيف أبدأ في الرياضة؟,ابحث عن رياضة تستمتع بها، ابدأ ببطء، وحدد أهدافاً!
+What is fitness?,The condition of being physically healthy and strong!
+ما هي اللياقة البدنية؟,حالة كونك صحياً وقوياً بدنياً!
+How to get fit?,Exercise regularly, eat well, and be consistent!
+كيف أصبح لائقاً بدنياً؟,تمرن بانتظام، كل جيداً، وكن مستمراً!
+What is yoga?,A practice combining physical postures, breathing, and meditation!
+ما هي اليوغا؟,ممارسة تجمع بين الوضعيات الجسدية والتنفس والتأمل!
+How to start yoga?,Begin with beginner classes, focus on breathing, and be patient!
+كيف أبدأ اليوغا؟,ابدأ بدروس المبتدئين، ركز على التنفس، وكن صبوراً!
+What is meditation?,A practice of focused attention for mental clarity!
+ما هو التأمل؟,ممارسة التركيز من أجل الوضوح الذهني!
+How to meditate daily?,Start with 5 minutes, find quiet space, and be consistent!
+كيف أتأمل يومياً؟,ابدأ بـ5 دقائق، ابحث عن مكان هادئ، وكن مستمراً!
+What is mindfulness?,Being present in the moment without judgment!
+ما هو اليقظة الذهنية؟,أن تكون حاضراً في اللحظة دون حكم!
+How to practice mindfulness?,Focus on senses, observe thoughts, and return to present!
+كيف أمارس اليقظة الذهنية؟,ركز على الحواس، لاحظ الأفكار، وعاود للحاضر!
+What is gratitude?,Thankfulness and appreciation for what you have!
+ما هو الامتنان؟,الشكر والتقدير لما تملكه!
+How to practice gratitude?,Keep a journal, thank others, and appreciate small things!
+كيف أمارس الامتنان؟,احتفظ بمذكرة، اشكر الآخرين، واقدر الأشياء الصغيرة!
+What is kindness?,The quality of being friendly, generous, and considerate!
+ما هو اللطف؟,صفة الود والكرم والمراعاة!
+How to be kind?,Help others, use gentle words, and show compassion!
+كيف أكون لطيفاً؟,ساعد الآخرين، استخدم كلمات لطيفة، وأظهر التعاطف!
+What is empathy?,Understanding and sharing the feelings of others!
+ما هو التعاطف؟,فهم ومشاركة مشاعر الآخرين!
+How to develop empathy?,Listen actively, imagine others' perspectives, and be open!
+كيف أنمي التعاطف؟,استمع بنشاط، تخيل وجهات نظر الآخرين، وكن منفتحاً!
+What is compassion?,Feeling concern for others' suffering with desire to help!
+ما هو الشفقة؟,الشعور بمعاناة الآخرين مع الرغبة في المساعدة!
+How to show compassion?,Offer help, listen without judgment, and be supportive!
+كيف أظهر الشفقة؟,قدم المساعدة، استمع دون حكم، وكن داعماً!
+What is forgiveness?,Letting go of anger and resentment toward someone!
+ما هو التسامح؟,التخلي عن الغضب والاستياء تجاه شخص!
+How to forgive?,Understand perspectives, accept what happened, and move forward!
+كيف أسامح؟,افهم وجهات النظر، تقبل ما حدث، وتقدم للأمام!
+What is patience?,The ability to accept delay or trouble without anger!
+ما هو الصبر؟,القدرة على تقبل التأخير أو المشكلة دون غضب!
+How to be patient?,Practice deep breathing, adjust expectations, and focus on process!
+كيف أكون صبوراً؟,مارس التنفس العميق، عدّل التوقعات، وركز على العملية!
+What is courage?,The ability to face fear, danger, or difficulty!
+ما هو الشجاعة؟,القدرة على مواجهة الخوف أو الخطر أو الصعوبة!
+How to be courageous?,Face fears gradually, prepare thoroughly, and believe in yourself!
+كيف أكون شجاعاً؟,واجه المخاوف تدريجياً، استعد جيداً، وآمن بنفسك!
+What is confidence?,Belief in your own abilities and judgment!
+ما هو الثقة بالنفس؟,الإيمان بقدراتك وحكمك!
+How to build confidence?,Set small goals, celebrate successes, and practice self-talk!
+كيف أبني الثقة؟,حدد أهدافاً صغيرة، احتفل بالنجاحات، ومارس الحديث مع النفس!
+What is self-esteem?,How you value and perceive yourself!
+ما هو احترام الذات؟,كيف تقدر وتنظر إلى نفسك!
+How to improve self-esteem?,Focus on strengths, set boundaries, and practice self-care!
+كيف أحسن احترامي لذاتي؟,ركز على نقاط القوة، حدد الحدود، ومارس العناية بالنفس!
+What is self-care?,Taking action to preserve or improve your own health!
+ما هي العناية بالنفس؟,اتخاذ إجراءات للحفاظ على صحتك أو تحسينها!
+How to practice self-care?,Get enough sleep, eat well, and do activities you enjoy!
+كيف أمارس العناية بالنفس؟,احصل على نوم كاف، كل جيداً، وافعل أنشطة تستمتع بها!
+What is mental health?,Emotional, psychological, and social well-being!
+ما هي الصحة النفسية؟,الرفاهية العاطفية والنفسية والاجتماعية!
+How to maintain mental health?,Manage stress, stay connected, and seek help when needed!
+كيف أحافظ على صحتي النفسية؟,ادير التوتر، ابق متصلاً، واطلب المساعدة عند الحاجة!
+What is depression?,A mental health disorder with persistent sadness and loss of interest!
+ما هو الاكتئاب؟,اضطراب صحة نفسية يتمثل بالحزن المستمر وفقدان الاهتمام!
+How to help someone with depression?,Listen without judgment, encourage professional help, and be patient!
+كيف أساعد شخصاً مكتئباً؟,استمع دون حكم، شجع على المساعدة المهنية، وكن صبوراً!
+What is anxiety?,Excessive worry and fear about everyday situations!
+ما هو القلق؟,قلق وخوف مفرطان بشأن مواقف الحياة اليومية!
+How to manage anxiety?,Practice relaxation techniques, challenge negative thoughts, and seek support!
+كيف أتحكم في القلق؟,مارس تقنيات الاسترخاء، تحدث الأفكار السلبية، واطلب الدعم!
+What is stress?,The body's response to any demand or challenge!
+ما هو التوتر؟,استجابة الجسم لأي طلب أو تحدي!
+How to reduce stress?,Exercise, meditate, and prioritize self-care!
+كيف أقلل التوتر؟,تمرن، تأمل، ورتب العناية بالنفس أولوية!
+What is burnout?,A state of emotional, physical, and mental exhaustion!
+ما هو الاحتراق النفسي؟,حالة من الإرهاق العاطفي والجسدي والذهني!
+How to prevent burnout?,Set boundaries, take breaks, and maintain work-life balance!
+كيف أمنع الاحتراق؟,حدد حدوداً، خذ فترات راحة، وحافظ على توازن العمل والحياة!
+What is work-life balance?,Managing time between work and personal life!
+ما هو توازن العمل والحياة؟,إدارة الوقت بين العمل والحياة الشخصية!
+How to achieve work-life balance?,Set clear boundaries, prioritize, and learn to say no!
+كيف أحقق توازن العمل والحياة؟,حدد حدوداً واضحة، رتب الأولويات، وتعلم قول لا!
+What is time management?,Organizing and planning how to divide time between activities!
+ما هي إدارة الوقت؟,تنظيم وتخطيط كيفية تقسيم الوقت بين الأنشطة!
+How to manage time better?,Use a planner, prioritize tasks, and minimize distractions!
+كيف أدير وقتي بشكل أفضل؟,استخدم مخططاً، رتب المهام حسب الأولوية، وقلل المشتتات!
+What is productivity?,The effectiveness of productive effort!
+ما هي الإنتاجية؟,فعالية الجهد المنتج!
+How to be more productive?,Focus on one task, eliminate distractions, and take breaks!
+كيف أكون أكثر إنتاجية؟,ركز على مهمة واحدة، تخلص من المشتتات، وخذ فترات راحة!
+What is procrastination?,Delaying or postponing tasks!
+ما هو التسويف؟,تأجيل أو تأخير المهام!
+How to stop procrastinating?,Break tasks into steps, set deadlines, and start with easy parts!
+كيف أتوقف عن التسويف؟,قسم المهام إلى خطوات، حدد مواعيد نهائية، وابدأ بالأجزاء السهلة!
+What is motivation?,The reason for acting or behaving in a particular way!
+ما هو الدافع؟,السبب للتصرف أو السلوك بطريقة معينة!
+How to stay motivated?,Set clear goals, track progress, and reward yourself!
+كيف أحافظ على حماسي؟,حدد أهدافاً واضحة، تتبع التقدم، وكافئ نفسك!
+What is goal setting?,The process of identifying something you want to accomplish!
+ما هو تحديد الأهداف؟,عملية تحديد شيء تريد تحقيقه!
+How to set effective goals?,Make them specific, measurable, achievable, relevant, and time-bound!
+كيف أحدد أهدافاً فعالة؟,اجعلها محددة وقابلة للقياس والتحقيق وذات صلة ومحددة زمنياً!
+What is success?,The accomplishment of an aim or purpose!
+ما هو النجاح؟,تحقيق هدف أو غرض!
+How to achieve success?,Set goals, work consistently, and learn from failures!
+كيف أحقق النجاح؟,حدد أهدافاً، اعمل باستمرار، وتعلم من الفشل!
+What is failure?,Lack of success in achieving a goal!
+ما هو الفشل؟,عدم تحقيق النجاح في هدف!
+How to learn from failure?,Analyze what went wrong, adjust strategy, and try again!
+كيف أتعلم من الفشل؟,حلل ما حدث خطأ، عدّل الاستراتيجية، وحاول مرة أخرى!
+What is resilience?,The ability to recover quickly from difficulties!
+ما هو المرونة؟,القدرة على التعافي بسرعة من الصعوبات!
+How to build resilience?,Develop coping skills, maintain perspective, and practice self-care!
+كيف أبني المرونة؟,طور مهارات التأقلم، حافظ على المنظور، ومارس العناية بالنفس!
+What is adaptability?,The ability to adjust to new conditions!
+ما هو التكيف؟,القدرة على التكيف مع الظروف الجديدة!
+How to be more adaptable?,Embrace change, stay curious, and be open to learning!
+كيف أكون أكثر تكيفاً؟,احتضن التغيير، ابق فضولياً، وكن منفتحاً على التعلم!
+What is growth mindset?,Believing abilities can be developed through dedication!
+ما هو عقلية النمو؟,الاعتقاد أن القدرات يمكن تطويرها بالتفاني!
+How to develop growth mindset?,Embrace challenges, learn from criticism, and persist!
+كيف أنمي عقلية النمو؟,احتضن التحديات، تعلم من النقد، واستمر!
+What is fixed mindset?,Believing abilities are innate and unchangeable!
+ما هو العقلية الثابتة؟,الاعتقاد أن القدرات فطرية وغير قابلة للتغيير!
+How to overcome fixed mindset?,Challenge beliefs, embrace learning, and celebrate effort!
+كيف أتغلب على العقلية الثابتة؟,تحدى المعتقدات، احتضن التعلم، واحتفل بالجهد!
+What is learning?,The acquisition of knowledge or skills through experience!
+ما هو التعلم؟,اكتساب المعرفة أو المهارات عبر الخبرة!
+How to learn faster?,Use active recall, spaced repetition, and teach others!
+كيف أتعلم أسرع؟,استخدم التذكر النشط، التكرار المتباعد، وعلم الآخرين!
+What is memory?,The faculty of encoding, storing, and retrieving information!
+ما هي الذاكرة؟,القدرة على ترميز وتخزين واسترجاع المعلومات!
+How to improve memory?,Use mnemonics, get enough sleep, and practice regularly!
+كيف أحسن ذاكرتي؟,استخدم الاختصارات، احصل على نوم كاف، وتمرن بانتظام!
+What is focus?,The center of interest or activity!
+ما هو التركيز؟,مركز الاهتمام أو النشاط!
+How to improve focus?,Minimize distractions, practice mindfulness, and take breaks!
+كيف أحسن تركيزي؟,قلل المشتتات، مارس اليقظة، وخذ فترات راحة!
+What is attention?,Noticing or taking care of something!
+ما هو الانتباه؟,ملاحظة أو رعاية شيء ما!
+How to pay better attention?,Remove distractions, practice active listening, and be present!
+كيف أنتبه بشكل أفضل؟,أزل المشتتات، مارس الاستماع النشط، وكن حاضراً!
+What is concentration?,The action of focusing one's attention!
+ما هو التركيز؟,فعل توجيه انتباه الشخص!
+How to concentrate better?,Create quiet environment, set time limits, and practice!
+كhow أركز بشكل أفضل؟,اصنع بيئة هادئة، حدد حدوداً زمنية، وتمرن!
