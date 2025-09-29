@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [build]
 builder = "nixpacks"
 
@@ -7,14 +6,4 @@ startCommand = "python app.py"
 
 [[services]]
 name = "web"
-=======
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "python app.py"
-
-[[services]]
-name = "web"
->>>>>>> 2e5776350d56de9f2773f72e3a61d5910f82b97a
 port = 8000
