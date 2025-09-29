@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Flask==2.3.3
 flask-cors==4.0.0
 pandas==2.0.3
@@ -6,16 +5,4 @@ numpy==1.24.3
 scikit-learn==1.3.0
 gtts==2.3.2
 googletrans==3.1.0a0
-=======
-Flask==2.3.3
-flask-cors==4.0.0
-pandas==2.0.3
-numpy==1.24.3
-scikit-learn==1.3.0
-sentence-transformers==2.2.2
-gtts==2.3.2
-googletrans==3.1.0a0
-SpeechRecognition==3.10.0
-pygame==2.5.0
->>>>>>> 2e5776350d56de9f2773f72e3a61d5910f82b97a
 gunicorn==21.2.0
