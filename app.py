@@ -106,29 +106,115 @@ class ChatbotAPI:
                 return 'en'
 
     def load_data(self):
-        """Load dataset from CSV."""
+        """Load dataset from CSV - يحافظ على البيانات الموجودة."""
         if os.path.exists(self.dataset_file):
             try:
-                df = pd.read_csv(self.dataset_file, encoding='utf-8')
-                if 'question' in df.columns and 'answer' in df.columns:
-                    self.questions = df['question'].fillna(
-                        '').astype(str).tolist()
-                    self.answers = df['answer'].fillna('').astype(str).tolist()
-
-                    # إحصاء الأسئلة العربية
-                    arabic_count = sum(
-                        1 for q in self.questions if self.detect_language(q) == 'ar')
-                    print(
-                        f"📊 Loaded {len(self.questions)} Q&A pairs ({arabic_count} Arabic)")
-                    return
+                # حاول قراءة الملف بطرق مختلفة
+                try:
+                    df = pd.read_csv(self.dataset_file, encoding='utf-8')
+                except:
+                    df = pd.read_csv(self.dataset_file, encoding='utf-8', on_bad_lines='skip')
+                
+                # تحقق من وجود الأعمدة المطلوبة
+                if len(df.columns) >= 2:
+                    # خذ أول عمودين فقط لو في أكتر من كده
+                    if 'question' in df.columns and 'answer' in df.columns:
+                        questions_col = 'question'
+                        answers_col = 'answer'
+                    else:
+                        questions_col = df.columns[0]
+                        answers_col = df.columns[1]
+                        print(f"⚠️ Using columns: {questions_col} and {answers_col}")
+                    
+                    # نظف البيانات
+                    df_clean = df[[questions_col, answers_col]].copy()
+                    df_clean = df_clean.dropna()
+                    df_clean[questions_col] = df_clean[questions_col].astype(str)
+                    df_clean[answers_col] = df_clean[answers_col].astype(str)
+                    
+                    # إزالة الصفوف الفارغة
+                    df_clean = df_clean[(df_clean[questions_col].str.strip() != '') & 
+                                      (df_clean[answers_col].str.strip() != '')]
+                    
+                    if len(df_clean) > 0:
+                        self.questions = df_clean[questions_col].tolist()
+                        self.answers = df_clean[answers_col].tolist()
+                        
+                        # إحصاء الأسئلة العربية
+                        arabic_count = sum(
+                            1 for q in self.questions if self.detect_language(q) == 'ar')
+                        print(
+                            f"📊 Loaded {len(self.questions)} Q&A pairs from dataset ({arabic_count} Arabic)")
+                        return
+                    else:
+                        print("⚠️ Dataset file exists but contains no valid data")
+                else:
+                    print("⚠️ Dataset file doesn't have enough columns")
+                    
             except Exception as e:
                 print(f"⚠️ Error loading dataset: {e}")
+                # حاول إصلاح الملف
+                self.try_fix_dataset()
+                return
 
-        # إنشاء بيانات افتراضية إذا الملف مش موجود
+        # فقط إذا الملف مش موجود أو مش ممكن نصلحه
+        print("📝 Creating default dataset...")
         self.create_default_dataset()
 
+    def try_fix_dataset(self):
+        """محاولة إصلاح ملف dataset بدل حذفه."""
+        try:
+            print("🛠️ Attempting to fix dataset file...")
+            
+            # حاول قراءة الملف بطرق مختلفة
+            try:
+                df = pd.read_csv(self.dataset_file, encoding='utf-8', on_bad_lines='skip')
+            except:
+                try:
+                    df = pd.read_csv(self.dataset_file, encoding='utf-8', sep=None, engine='python')
+                except:
+                    print("❌ Could not read dataset file")
+                    self.create_default_dataset()
+                    return
+            
+            if len(df.columns) >= 2:
+                # خذ أول عمودين فقط
+                df_fixed = df.iloc[:, :2].copy()
+                df_fixed.columns = ['question', 'answer']
+                
+                # نظف البيانات
+                df_fixed = df_fixed.dropna()
+                df_fixed['question'] = df_fixed['question'].astype(str)
+                df_fixed['answer'] = df_fixed['answer'].astype(str)
+                
+                # إزالة الصفوف الفارغة
+                df_fixed = df_fixed[(df_fixed['question'].str.strip() != '') & 
+                                  (df_fixed['answer'].str.strip() != '')]
+                
+                if len(df_fixed) > 0:
+                    # احفظ الملف المُصلح
+                    df_fixed.to_csv(self.dataset_file, index=False, encoding='utf-8')
+                    print(f"✅ Fixed dataset file, keeping {len(df_fixed)} Q&A pairs")
+                    
+                    # حمّل البيانات المُصلحة
+                    self.questions = df_fixed['question'].tolist()
+                    self.answers = df_fixed['answer'].tolist()
+                    return
+            
+            print("❌ Could not fix dataset file, creating new one")
+            self.create_default_dataset()
+            
+        except Exception as e:
+            print(f"❌ Error fixing dataset: {e}")
+            self.create_default_dataset()
+
     def create_default_dataset(self):
-        """Create default dataset."""
+        """Create default dataset فقط إذا مفيش بيانات."""
+        # إذا في بيانات موجودة، ما تنشئش بيانات افتراضية
+        if len(self.questions) > 0 and len(self.answers) > 0:
+            print("📊 Using existing data, skipping default dataset creation")
+            return
+            
         data = {
             'question': [
                 'Hello', 'Hi', 'How are you?', 'What is your name?', 'Goodbye', 'Thank you',
